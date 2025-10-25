@@ -1,3 +1,3 @@
 # calculator
-A simple calculator application
-*シンプルな<ins>電卓アプリケーション</ins>*
+A simple calculator application  
+*シンプルな**電卓アプリケーション***
